@@ -25,5 +25,5 @@
 * [winow](https://autumn-library.github.io/winow) - веб-сервер на чистом OneScript.
 * [ovm](https://github.com/oscript-library/ovm) - менеджер версий OneScript на базе autumn-cli.
 * [autumn-atm](https://github.com/autumn-library/autumn-atm) - демо-приложение со [стрима на канале Веселый1С](https://www.youtube.com/watch?v=eIhWSJnRXlU).
-* [autumn-dduck](https://autumn-library.github.io/autumn-dduck) - модуль для работы с работы с DDNS Duck-DNS.
+* [autumn-dduck](https://autumn-library.github.io/autumn-dduck) - модуль для работы с DDNS Duck-DNS.
 * [codestatprofiler](https://github.com/autumn-library/codestatprofiler) - приложение для визуализации результатов замеров производительности OneScript.
