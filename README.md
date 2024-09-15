@@ -16,6 +16,7 @@
 * [autumn-cli](https://autumn-library.github.io/autumn-cli) - модуль для создания консольных приложений поверх библиотеки [cli](https://github.com/khorevaa/clu).
 * [autumn-async](https://autumn-library.github.io/autumn-async) - модуль асинхронного исполнения методов.
 * [autumn-synchronized](https://autumn-library.github.io/autumn-synchronized) - модуль для синхронизации исполнения методов.
+* [autumn-event-publisher](https://github.com/autumn-library/autumn-event-publisher) - механизм подписок на события и публикации событий.
 * [autumn-annotation-types](https://autumn-library.github.io/autumn-annotation-types) - набор аннотаций ОСени для удобной инициализации стандартных типов.
 * [autumn-validate](https://autumn-library.github.io/autumn-validate) - модуль для автоматической валидации данных желудей на базе аннотаций.
 * [autumn-killjoy-flavour](https://autumn-library.github.io/autumn-killjoy-flavour) - набор аннотаций для ОСени, который поубивает весь кайф.
